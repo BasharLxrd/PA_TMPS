@@ -1,0 +1,13 @@
+{
+  "name": "pa_tmps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "State.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
